@@ -5,7 +5,7 @@
             "date": "2000",
             "text": {
                 "headline": "Testing and Playing",
-                "text": "Testing this out <img src ='https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_1789-08-1790.png'>"
+                "text": "Testing this out <img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_1789-08-1790.png'>"
             },
             "media": {
                     "url":          null,
