@@ -6,7 +6,12 @@
             "text": {
                 "headline": "Testing and Playing",
                 "text": "<p>Testing this out</p> <img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_1789-08-1790.png'> <img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_1789-08-1790.png'>",
-            }
+            },
+            "media": {
+                    "url":          "",
+                    "credit":       "",
+                    "caption":      ""
+                }
         }, {
             "date": "1790",
             "text": {
