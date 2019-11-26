@@ -1,11 +1,13 @@
+
+
 {
     "storymap": {
         "slides": [{
             "type": "overview",
             "date": "2000",
             "text": {
-                "headline": "Testing and Playing",
-                "text": "<p>Testing this out</p> <img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_1789-08-1790.png' alt='test'>"
+                "headline": "StoryMaps JS Demo",
+                "text": "<p>Playing with StoryMaps JS</p> <img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_1789-08-1790.png' alt='test'>"
             },
             "media": {
                     "url":          null,
