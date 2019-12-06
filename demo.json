@@ -1,193 +1,165 @@
 {
-  "storymap": {
-      "call_to_action": true,
-      "zoomify": {
-        "path": "https://elanaalt.github.io/Versailles-Zoomify/",
-        "width": 7136,
-        "height": 10512
-          },
-        "slides":
-          [
-            {
-              "date": "",
-              "media":
-                {
-                  "url": "",
-                  "caption": "",
-                  "credit": ""
-                },
-              "type": "overview",
-              "location": {
-                "line": true
-                  },
-                "text":
-                  {
-                    "headline": "Versailles image test",
-                    "text": "Hope this works!"
-                  },
-                },
-            {
-              "date": "",
-              "media":
-                {
-                  "url": "",
-                  "caption": "",
-                  "credit": ""
-                },
-              "location":
-                {
-                  "lat": 72.39570570653261,
-                  "line": true,
-                  "lon": -149.765625,
-                  "zoom": 1
-                },
-              "background":
-                  {
-                    "color": "#ffffff",
-                    "opacity": 100
-                  },
-                "text":
-                  {
-                    "headline": "Point one",
-                    "text": ""
-                  },
-                },
-                {
-                  "date": "",
-                  "media":
-                    {
-                      "url": "",
-                      "caption": "",
-                      "credit": ""
-                    },
-                  "location":
-                    {
-                      "lat": 43.58039085560784,
-                      "line": true,
-                      "lon": -25.3125,
-                      "zoom": 1
-                    },
-                  "background":
-                      {
-                        "color": "#ffffff",
-                        "opacity": 100
-                      },
-                    "text":
-                      {
-                        "headline": "Point two",
-                        "text": ""
-                      },
-                    },
-                    {
-                      "date": "",
-                      "media":
-                        {
-                          "url": "",
-                          "caption": "",
-                          "credit": ""
-                        },
-                      "location":
-                        {
-                          "lat": 5.61598581915534,
-                          "line": true,
-                          "lon": -134.296875,
-                          "zoom": 1
-                        },
-                      "background":
-                          {
-                            "color": "#ffffff",
-                            "opacity": 100
-                          },
-                        "text":
-                          {
-                            "headline": "Point three",
-                            "text": ""
-                          },
-                        },
-                        {
-                          "date": "",
-                          "media":
-                            {
-                              "url": "",
-                              "caption": "",
-                              "credit": ""
-                            },
-                          "location":
-                            {
-                              "lat": 0,
-                              "line": true,
-                              "lon": 0,
-                              "zoom": 1
-                            },
-                          "background":
-                              {
-                                "color": "#ffffff",
-                                "opacity": 100
-                              },
-                            "text":
-                              {
-                                "headline": "Zero, Zero",
-                                "text": ""
-                              },
-                            },
-                            {
-                              "date": "",
-                              "media":
-                                {
-                                  "url": "",
-                                  "caption": "",
-                                  "credit": ""
-                                },
-                              "location":
-                                {
-                                  "lat": 100,
-                                  "line": true,
-                                  "lon":100,
-                                  "zoom": 1
-                                },
-                              "background":
-                                  {
-                                    "color": "#ffffff",
-                                    "opacity": 100
-                                  },
-                                "text":
-                                  {
-                                    "headline": "100, 100",
-                                    "text": ""
-                                  },
-                                },
-                                {
-                                  "date": "",
-                                  "media":
-                                    {
-                                      "url": "",
-                                      "caption": "",
-                                      "credit": ""
-                                    },
-                                  "location":
-                                    {
-                                      "lat": -100,
-                                      "line": true,
-                                      "lon":-100,
-                                      "zoom": 1
-                                    },
-                                  "background":
-                                      {
-                                        "color": "#ffffff",
-                                        "opacity": 100
-                                      },
-                                    "text":
-                                      {
-                                        "headline": "-100, -100",
-                                        "text": ""
-                                      },
-                                    },
+	"storymap": {
+		"call_to_action": true,
+		"zoomify": {
+			"path": "https://elanaalt.github.io/Versailles-Zoomify/",
+			"width": 7136,
+			"height": 10512
+		},
+		"slides": [{
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"type": "overview",
+				"location": {
+					"line": true
+				},
+				"text": {
+					"headline": "Versailles image test",
+					"text": "Hope this works!"
+				}
+			},
+			{
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"lat": 72.39570570653261,
+					"line": true,
+					"lon": -149.765625,
+					"zoom": 1
+				},
+				"background": {
+					"color": "#ffffff",
+					"opacity": 100
+				},
+				"text": {
+					"headline": "Point one",
+					"text": ""
+				}
+			},
+			{
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"lat": 43.58039085560784,
+					"line": true,
+					"lon": -25.3125,
+					"zoom": 1
+				},
+				"background": {
+					"color": "#ffffff",
+					"opacity": 100
+				},
+				"text": {
+					"headline": "Point two",
+					"text": ""
+				}
+			},
+			{
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"lat": 5.61598581915534,
+					"line": true,
+					"lon": -134.296875,
+					"zoom": 1
+				},
+				"background": {
+					"color": "#ffffff",
+					"opacity": 100
+				},
+				"text": {
+					"headline": "Point three",
+					"text": ""
+				}
+			},
+			{
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"lat": 0,
+					"line": true,
+					"lon": 0,
+					"zoom": 1
+				},
+				"background": {
+					"color": "#ffffff",
+					"opacity": 100
+				},
+				"text": {
+					"headline": "Zero, Zero",
+					"text": ""
+				}
+			},
+			{
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"lat": 100,
+					"line": true,
+					"lon": 100,
+					"zoom": 1
+				},
+				"background": {
+					"color": "#ffffff",
+					"opacity": 100
+				},
+				"text": {
+					"headline": "100, 100",
+					"text": ""
+				}
+			},
+			{
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"lat": -100,
+					"line": true,
+					"lon": -100,
+					"zoom": 1
+				},
+				"background": {
+					"color": "#ffffff",
+					"opacity": 100
+				},
+				"text": {
+					"headline": "-100, -100",
+					"text": ""
+				}
+			}
 
-                      ],
-      "map_background_color": "#2748a3",
-      "map_type": "zoomify",
-      "call_to_action_text": "",
-      "map_as_image": false
-    },
-    "height": "100%"
-  }
+		],
+		"map_background_color": "#2748a3",
+		"map_type": "zoomify",
+		"call_to_action_text": "",
+		"map_as_image": false
+	},
+	"height": "100%"
+}
