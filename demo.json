@@ -19,7 +19,7 @@
 				},
 				"text": {
 					"headline": "Versailles image test",
-					"text": "Hope this works!"
+					"text": "<div class='test'>Hope this works!</div>"
 				}
 			},
 			{
@@ -36,7 +36,7 @@
 					"zoom": 1
 				},
 				"background": {
-					"color": "#ffffff",
+					"color": "#000000",
 					"opacity": 100
 				},
 				"text": {
@@ -58,7 +58,7 @@
 					"zoom": 1
 				},
 				"background": {
-					"color": "#ffffff",
+					"color": "#000000",
 					"opacity": 100
 				},
 				"text": {
@@ -80,7 +80,7 @@
 					"zoom": 1
 				},
 				"background": {
-					"color": "#ffffff",
+					"color": "#000000",
 					"opacity": 100
 				},
 				"text": {
@@ -102,7 +102,7 @@
 					"zoom": 1
 				},
 				"background": {
-					"color": "#ffffff",
+					"color": "#000000",
 					"opacity": 100
 				},
 				"text": {
@@ -124,7 +124,7 @@
 					"zoom": 1
 				},
 				"background": {
-					"color": "#ffffff",
+					"color": "#000000",
 					"opacity": 100
 				},
 				"text": {
@@ -146,7 +146,7 @@
 					"zoom": 1
 				},
 				"background": {
-					"color": "#ffffff",
+					"color": "#000000",
 					"opacity": 100
 				},
 				"text": {
