@@ -41,7 +41,7 @@
 				},
 				"text": {
 					"headline": "Point one",
-					"text": ""
+					"text": "<div class='description'>Will it show up as purple or white?</div>"
 				}
 			},
 			{
