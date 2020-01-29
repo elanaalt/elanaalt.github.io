@@ -90,6 +90,22 @@
 			},
 			{
 				"date": "",
+					"media": {
+						"url": "",
+						"caption": "",
+						"credit": ""
+					},
+					"type": "overview",
+					"location": {
+						"line": true
+					},
+					"text": {
+						"headline": "overview 2",
+						"text": "what does the map show?"
+					}
+				},
+			{
+				"date": "",
 				"media": {
 					"url": "",
 					"caption": "",
