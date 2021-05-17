@@ -9,9 +9,11 @@
 		"slides": [{
 				"date": "",
 				"media": {
-					"url": "<div style='height: 20px;'>https://elanaalt.github.io/EmpireState.jpg</div>",
+					"url": "https://elanaalt.github.io/EmpireState.jpg",
 					"caption": "",
 					"credit": ""
+					"width": 50,
+					"height": 20,
 				},
 				"type": "overview",
 				"location": {
